@@ -8,6 +8,13 @@ A lightweight Retrieval-Augmented Generation (RAG) pipeline to parse, vectorize,
 
 Repo: [https://github.com/SAGAR-TAMANG/json-vector-rag-pipeline](https://github.com/SAGAR-TAMANG/json-vector-rag-pipeline)
 
+<p align="center">
+  <img src="youtube-thumbnail-3.png" alt="JSON Vector RAG Pipeline" width="400" style="border-radius: 12px" />
+
+  See Tutorial on Youtube: [https://www.youtube.com/watch?v=T17G-KewCb4](https://www.youtube.com/watch?v=T17G-KewCb4)
+</p>
+
+
 ## Features
 
 - ✅ Load and parse JSON datasets of any structure

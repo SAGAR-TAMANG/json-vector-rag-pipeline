@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="thumbnail.png" alt="JSON Vector RAG Pipeline" width="100" style="border-radius: 12px" />
+</p>
+
 # json-vector-rag-pipeline
 
 A lightweight Retrieval-Augmented Generation (RAG) pipeline to parse, vectorize, and semantically search JSON data such as FAQs, Q&A, or product descriptions. Uses FAISS for vector storage and OpenAI or Hugging Face models for LLM-based responses.

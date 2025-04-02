@@ -4,3 +4,4 @@ langchain-community==0.3.20
 sentence-transformers==4.0.1
 langchain-huggingface==0.1.2
 jq==1.8.0
+openai
